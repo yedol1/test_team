@@ -1,0 +1,33 @@
+단축키 관련 광기
+ㄴ시간단축을 위해 필수적
+
+GitHub - 잘못된 코드라도 그냥 두기 
+ㄴRepo 볼때 pinned 된것만 보기때문에 
+
+VScode 폴더에서 바로열기 
+
+FE - 기획자와 디자이너가 만든 페이지를 구현+ BE와 연결해주는 api
+
+이름=도메인 naver.com / 주소=IP 105.209.222.141 / 문=포트 22,23,80.443...
+
+github.dev 에서 편집 -> 제어환경에서 메세지 작성 후 체크표시 클릭하여 커밋
+
+div, span 최후의 보루
+
+Markup - tag<> 
+Markdown - # 대제목
+
+HTML - 뼈
+CSS - 살,옷
+JavaScript - 근육,생명
+
+확장자 - 어느소프트웨어와 연결해 줄것인가
+
+우리가 배우는것은 2019년 이후로, HTML5 가 아니라 HTML living standard 이다
+
+dt - 키워드검색, 스크린리더가 읽기 위해, ...
+
+네이버와 다음에서 navigation bar 영역에서 nav 가아닌 div 태그를 사용하는 것을 보고 의구심이 들어 검색을 해보았습니다. 제가 고민해보았을때는 nav 태그가 navigation 역할으로는 더 정확한 태그인것같은데, 네이버나 다음 포탈에서
+<div class="nav"> 와 같이 사용하는 이유가 있을까요?
+
+section - article 이 아닌 div - article 로 되어있음...머지 호환성때문인가
